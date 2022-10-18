@@ -109,6 +109,7 @@ __STATIC_INLINE uint32_t sys_now(void)
 *  int
 *
 *******************************************************************************/
+
 int main(void)
 {
     cy_rslt_t result;
